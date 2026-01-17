@@ -95,3 +95,4 @@ D:\SulaimanApp\Azure Learning\First program\FirstProgram\obj\Release\net10.0\ref
 D:\SulaimanApp\Azure Learning\First program\FirstProgram\obj\Release\net10.0\FirstProgram.pdb
 D:\SulaimanApp\Azure Learning\First program\FirstProgram\obj\Release\net10.0\FirstProgram.genruntimeconfig.cache
 D:\SulaimanApp\Azure Learning\First program\FirstProgram\obj\Release\net10.0\ref\FirstProgram.dll
+D:\SulaimanApp\Azure Learning\First program\FirstProgram\obj\Release\net10.0\FirstProgram.sourcelink.json
