@@ -1,0 +1,7 @@
+D:\SulaimanApp\Azure Learning\First program\FirstProgram\bin\publish\FirstProgram.exe
+D:\SulaimanApp\Azure Learning\First program\FirstProgram\bin\publish\appsettings.Development.json
+D:\SulaimanApp\Azure Learning\First program\FirstProgram\bin\publish\appsettings.json
+D:\SulaimanApp\Azure Learning\First program\FirstProgram\bin\publish\FirstProgram.dll
+D:\SulaimanApp\Azure Learning\First program\FirstProgram\bin\publish\FirstProgram.deps.json
+D:\SulaimanApp\Azure Learning\First program\FirstProgram\bin\publish\FirstProgram.runtimeconfig.json
+D:\SulaimanApp\Azure Learning\First program\FirstProgram\bin\publish\FirstProgram.pdb
