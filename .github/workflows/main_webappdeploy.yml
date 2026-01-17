@@ -27,7 +27,7 @@ jobs:
         run: dotnet restore
 
       - name: Publish to folder
-        run: dotnet publish ./AzureLearning/FirstProgram/FirstProgram.csproj -c Release -o ./published
+        run: dotnet publish ./FirstProgram/FirstProgram.csproj -c Release -o ./published
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
@@ -63,3 +63,4 @@ jobs:
           slot-name: 'Production'
           package: ./published
           
+
